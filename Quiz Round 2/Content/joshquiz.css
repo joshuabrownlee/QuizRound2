@@ -1,0 +1,26 @@
+﻿body { 
+    
+    background-image: url("http://ak8.picdn.net/shutterstock/videos/5930663/preview/stock-footage-american-flag-waving-in-the-wind-part-of-a-series-k-resolution-x.jpg")
+       
+}
+div {
+    text-emphasis-style: sesame
+}
+.modal-header {
+    background-color: red
+
+}
+.modal-content{
+    background-color: white
+
+}
+.modal-footer{
+    background-color:red
+}
+.jumbotron {
+    background-image: url("http://images2.layoutsparks.com/1/136274/america-flag-stars-stripes.jpg")
+}
+.form-group {
+
+    font-size: 1.675em;
+}
